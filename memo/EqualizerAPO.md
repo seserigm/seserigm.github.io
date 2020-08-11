@@ -69,7 +69,6 @@ Equalizer APO は、Windows Vista 以降で使えるイコライザアプリで�
 
 おすすめは、インターネットアーカイブに残る Bricasti M7 Impulse Response Library です。bit深度は最適なものがあればそれを選びます。合わなくても動作します。
 
-
 - [Samplicity's Bricasti M7 Impulse Response Library v1.1 - Samplicity - web.archive.org](https://web.archive.org/web/20190201211631/http://www.samplicity.com/bricasti-m7-impulse-responses/)
 
 ## 知っておいたほうが良いかも知れないこと

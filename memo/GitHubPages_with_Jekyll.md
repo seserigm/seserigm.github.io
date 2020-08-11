@@ -72,4 +72,3 @@ tags: GitHub Pages Jekyll
 
 mdファイルごとにじゃなく一括で設定するには、_config.ymlというファイルを編集するよ。  
 _config.ymlは、初回テーマ適用時にリポジトリのルートに追加されるよ。
-
