@@ -52,7 +52,7 @@ Equalizer APO は、Windows Vista 以降で使えるイコライザアプリで�
 導入と基本的な使い方は、以下のサイトで丁寧に案内されています。  
 英語ソフトですが日本語化せずとも使えるでしょう。
 
-[イコライザーソフト「Equalizer APO」 | FreesoftConcierge](https://freesoft-concierge.com/media/equalizer-apo/)
+[イコライザーソフト「Equalizer APO」 \| FreesoftConcierge](https://freesoft-concierge.com/media/equalizer-apo/)
 
 ## 応用的な使い方
 
